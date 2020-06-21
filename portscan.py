@@ -13,3 +13,4 @@ for port in ports:
 
     if code == 0:
         print str(port) + " => Porta Aberta"
+print "Scan Finalizado."
