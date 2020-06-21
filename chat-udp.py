@@ -1,3 +1,5 @@
+# Python 2.7
+
 import socket
 from time import ctime
 
