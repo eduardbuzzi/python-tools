@@ -1,3 +1,5 @@
+# Python 2.7
+
 import paramiko
 
 host = raw_input("Informe o IP => ")
